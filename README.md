@@ -31,18 +31,8 @@ The steps below will take you all the way through Cypress. It is assumed you hav
 
 #### c. Open Cypress UI to run
 ```npx cypress open```
+![cypress-pom](https://user-images.githubusercontent.com/47560307/179450497-8e57a524-1f33-4275-b33a-7d2a384c5553.gif)
 
-####     Cypress UI will display and select end to end test
-<img width="1199" alt="Screen Shot 2022-07-18 at 10 04 29 AM" src="https://user-images.githubusercontent.com/47560307/179440179-7c303c1a-3da3-488d-942a-e170d2a09fe9.png">
-
-#####     Select any browser - Recomendation: Electron
-<img width="1192" alt="Screen Shot 2022-07-18 at 10 04 45 AM" src="https://user-images.githubusercontent.com/47560307/179439757-6c09bf1f-6529-4fc6-b5fe-c8eba5927729.png">
-
-#####     Select spec to run
-<img width="1279" alt="Screen Shot 2022-07-18 at 10 04 56 AM" src="https://user-images.githubusercontent.com/47560307/179439819-80da5f53-6149-44fa-b1f1-93e942b48b86.png">
-
-#####    Run and observe the result
-<img width="1281" alt="Screen Shot 2022-07-18 at 10 05 34 AM" src="https://user-images.githubusercontent.com/47560307/179439863-05d4d3ba-9eb9-4f2c-b4af-e4c7c0c9d325.png">
 
 # Have fun!!!
 
