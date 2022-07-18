@@ -26,10 +26,10 @@ The steps below will take you all the way through Cypress. It is assumed you hav
 #### a. install the node_modules
 ```npm install```
 
-#### b. run test with cypress headless
+#### b. Run test with cypress headless
 ```cypress run```
 
-#### c. run tt with cypress UI
+#### c. Open Cypress UI to run
 ```npx cypress open```
 
 ####     Cypress UI will display and select end to end test
