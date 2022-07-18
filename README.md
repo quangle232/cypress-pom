@@ -27,7 +27,9 @@ The steps below will take you all the way through Cypress. It is assumed you hav
 ```npm install```
 
 #### b. Run test with cypress headless
-```cypress run```
+```npx cypress run```
+
+![cypress-pom-headless](https://user-images.githubusercontent.com/47560307/179451264-0acbacc6-4bc2-49f6-b092-0d237884f73e.gif)
 
 #### c. Open Cypress UI and select specs to run
 ```npx cypress open```
