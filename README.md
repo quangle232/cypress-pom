@@ -29,8 +29,9 @@ The steps below will take you all the way through Cypress. It is assumed you hav
 #### b. Run test with cypress headless
 ```cypress run```
 
-#### c. Open Cypress UI to run
+#### c. Open Cypress UI and select specs to run
 ```npx cypress open```
+
 ![cypress-pom](https://user-images.githubusercontent.com/47560307/179450497-8e57a524-1f33-4275-b33a-7d2a384c5553.gif)
 
 
