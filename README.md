@@ -17,11 +17,16 @@ The steps below will take you all the way through Cypress. It is assumed you hav
 * [Cypress Docs](https://on.cypress.io)
 * [Cypress CLI Tool Docs](https://docs.cypress.io/guides/guides/command-line)
 
-### 1. Install Cypress
+
+### 1. Install Node
+
+[NodeJs download](https://nodejs.org/en/download/)
+
+### 2. Install Cypress
 
 [Follow these instructions to install Cypress.](https://docs.cypress.io/guides/getting-started/installing-cypress)
 
-### 2. Execute testing for this repo
+### 3. Execute testing for this repo
 
 #### a. install the node_modules
 ```npm install```
