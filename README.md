@@ -15,11 +15,11 @@ The steps below will take you all the way through Cypress. It is assumed you hav
 
 * [Gitter Channel](https://gitter.im/cypress-io/cypress)
 * [Cypress Docs](https://on.cypress.io)
-* [Cypress CLI Tool Docs](https://github.com/cypress-io/cypress-cli)
+* [Cypress CLI Tool Docs](https://docs.cypress.io/guides/guides/command-line)
 
 ### 1. Install Cypress
 
-[Follow these instructions to install Cypress.](https://on.cypress.io/guides/installing-and-running#section-installing)
+[Follow these instructions to install Cypress.](https://docs.cypress.io/guides/getting-started/installing-cypress)
 
 ### 2. Execute testing for this repo
 
